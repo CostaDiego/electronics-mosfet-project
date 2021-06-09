@@ -1,0 +1,29 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-60,1213,1172,0.751315,0,0>
+  <Grid=10,10,0>
+  <DataSet=ac-analysis.dat>
+  <DataDisplay=ac-analysis.sch>
+  <OpenDisplay=1>
+  <Script=ac-analysis.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 290 586 618 530 3 #c0c0c0 1 10 1 0 1 0 1 -1 0.2 1 1 -1 0.2 1 315 0 225 "" "" "" "">
+	<"Ganho" #ff0000 0 3 0 0 0>
+	  <Mkr 1e+07 198 -596 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
